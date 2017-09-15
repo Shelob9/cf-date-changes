@@ -1,0 +1,15 @@
+{
+    "name": "calderawp/cf-date-changes",
+    "type": "wordpress-plugin",
+    "license": "GLPv2+",
+    "authors": [
+        {
+            "name": "Josh Pollock",
+            "email": "Josh@JoshPress.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nesbot/carbon": "^1.22"
+    }
+}
